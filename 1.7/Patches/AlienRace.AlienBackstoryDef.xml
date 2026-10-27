@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NormalWorm"]/title</xpath>
+    <value>
+      <title>Ordinary Magical Girl</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NormalWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Ordinary Magical Girl</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NormalWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] was an entirely ordinary girl with ordinary grades, ordinary hobbies, and no mysterious family secret whatsoever. [PAWN_nameDef] still has no idea why she had been chosen.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ActiveWorm"]/title</xpath>
+    <value>
+      <title>Fist of Love</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ActiveWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Fist of Love</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ActiveWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>When diplomacy failed, [PAWN_nameDef] discovered that love could also be delivered at a high-velocity fistfight.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FriendlyWorm"]/title</xpath>
+    <value>
+      <title>Kitten Burier</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FriendlyWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Kitten Burier</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FriendlyWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] buried a dead stray cat beneath a flowering tree. The following morning, the cat returned as a magical fairy and presented her with a transformation charm.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CreativeWorm"]/title</xpath>
+    <value>
+      <title>Transformation Diva</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CreativeWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Transformation Diva</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CreativeWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] has a gorgeous but too-long transformation animation.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DiggingWorm"]/title</xpath>
+    <value>
+      <title>Secret Base Builder</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DiggingWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Secret Base Builder</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DiggingWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>Magic cannot replace labor.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FastGrowingWorm"]/title</xpath>
+    <value>
+      <title>Country Magical Girl</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FastGrowingWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Country Magical Girl</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FastGrowingWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>No one expected a farming girl like [PAWN_nameDef] to become a magical girl. She proved them wrong.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BellicoseWorm"]/title</xpath>
+    <value>
+      <title>Magical Brawler</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BellicoseWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Magical Brawler</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BellicoseWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] believes true friendship and an honest heart are not proven with words, but through combat.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NerdyWorm"]/title</xpath>
+    <value>
+      <title>Flower Princess</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NerdyWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Flower Princess</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NerdyWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] comes from a wealthy family and maintains a magnificent garden where she regularly invites other magical girls for tea.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ShrewdWorm"]/title</xpath>
+    <value>
+      <title>Scientific Magical Girl</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ShrewdWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Scientific Magical Girl</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ShrewdWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] refuses to accept that magic is beyond explanation.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/title</xpath>
+    <value>
+      <title>Sparkle Medic</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Sparkle Medic</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] learned that almost every problem can be solved with a pep talk.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BizarreWorm"]/title</xpath>
+    <value>
+      <title>Prophecy Enthusiast</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BizarreWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Prophecy Enthusiast</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BizarreWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] speaks often of destiny, moonlight, and the final battle.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_HoardingWorm"]/title</xpath>
+    <value>
+      <title>Meteor Breaker</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_HoardingWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Meteor Breaker</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_HoardingWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] once fired a magical spark at a massive falling meteor and blasted it into smaller pieces before impact.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CatWorm"]/title</xpath>
+    <value>
+      <title>Chain-Combat Expert</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CatWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Chain-Combat Expert</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CatWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] fights in perfect coordination with her summoned spirit, weaving their attacks together into uninterrupted chains.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_AutisticWorm"]/title</xpath>
+    <value>
+      <title>Hesitant Magical Girl</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_AutisticWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Hesitant Magical Girl</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_AutisticWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>What?! It’s my turn now?</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ZealousWorm"]/title</xpath>
+    <value>
+      <title>Divine Magical Girl</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ZealousWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Divine Magical Girl</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ZealousWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] has built her persona around sacred symbols, solemn prayers, and phrases such as “May the Lord be with you.” She is not particularly religious, but insists that every magical girl needs a proper theme.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_MedicalWorm"]/title</xpath>
+    <value>
+      <title>Miracle Healer</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_MedicalWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Miracle Healer</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_MedicalWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>You’re not allowed to die yet!</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CheesyWorm"]/title</xpath>
+    <value>
+      <title>Cake Fortress Architect</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CheesyWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Cake Fortress Architect</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CheesyWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] fought by conjuring castles and soldiers made of cake, candy, and fruit jam.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BookWorm"]/title</xpath>
+    <value>
+      <title>Costume Designer</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BookWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Costume Designer</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BookWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>[PAWN_nameDef] designs and crafts magical-girl costumes for herself and her friends. Some are elegant dresses covered in ribbons and lace; others are kinky, skin-tight bodysuits.</baseDesc>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DOSWorm"]/title</xpath>
+    <value>
+      <title>Magical Artillery Girl</title>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DOSWorm"]/titleShort</xpath>
+    <value>
+      <titleShort>Magical Artillery Girl</titleShort>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DOSWorm"]/baseDesc</xpath>
+    <value>
+      <baseDesc>Her preferred tactic is to fire enormous magical blasts until the target and most of the visible horizon disappear behind smoke and sparkles.</baseDesc>
+    </value>
+  </Operation>
+</Patch>

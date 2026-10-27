@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="Anneli_Infection"]/label</xpath>
+    <value>
+      <label>annelitrice shared miracle</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="Anneli_Infection"]/labelNoun</xpath>
+    <value>
+      <labelNoun>annelitrice shared miracle</labelNoun>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="Anneli_Infection"]/description</xpath>
+    <value>
+      <description>An annelitrice magical girl has shared a strong positive vibe with the target. The resulting positive mood crystallizes into Wish Fragments. Unfortunately, sustained positivity also causes elevated blood sugar and may lead to diabetes.</description>
+    </value>
+  </Operation>
+</Patch>

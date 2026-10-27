@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Cure_Anneli_Infection"]/label</xpath>
+    <value>
+      <label>break annelitrice shared miracle</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Cure_Anneli_Infection"]/description</xpath>
+    <value>
+      <description>This medical operation dispels the shared miracle. It also lowers the blood sugar level.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Cure_Anneli_Infection"]/jobString</xpath>
+    <value>
+      <jobString>Breaking annelitrice shared miracle.</jobString>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Cure_Anneli_Infection"]/successfullyRemovedHediffMessage</xpath>
+    <value>
+      <successfullyRemovedHediffMessage>{0} has successfully broken {1}'s annelitrice shared miracle.</successfullyRemovedHediffMessage>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="HatchAnneliEggs"]/label</xpath>
+    <value>
+      <label>awaken annelitrice Wish Fragment</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="HatchAnneliEggs"]/description</xpath>
+    <value>
+      <description>Awaken a Wish Fragment to summon an annelitrice magical fairy.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="ButcherAnneliEggs"]/label</xpath>
+    <value>
+      <label>reclaim annelitrice Wish Fragment</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="CremateAnneliEggs"]/label</xpath>
+    <value>
+      <label>destroy annelitrice Wish Fragment</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Anneli_AnthelminticAnneliEggs"]/label</xpath>
+    <value>
+      <label>craft annelitrice purification wands</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="Anneli_AnthelminticAnneliEggs"]/description</xpath>
+    <value>
+      <description>Craft small purification wands for keeping unpleasant chores away.</description>
+    </value>
+  </Operation>
+  <!-- Butchery yields Anneli_NutrientSolution -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="ButcherAnneliEggs"]/products</xpath>
+    <value>
+      <products>
+        <Anneli_NutrientSolution>5</Anneli_NutrientSolution>
+      </products>
+    </value>
+  </Operation>
+</Patch>

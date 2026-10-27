@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Anneli_Fountain"]/label</xpath>
+    <value>
+      <label>annelitrice Moonlight Fountain</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Anneli_Fountain"]/description</xpath>
+    <value>
+      <description>A moonlit fountain for annelitrice magical girl recipes, including transmog apparel, annelitrice Wish Fragments, and annelitrice magical lollipop.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Anneli_NutrientSolution"]/label</xpath>
+    <value>
+      <label>annelitrice magical lollipop</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Anneli_NutrientSolution"]/description</xpath>
+    <value>
+      <description>A lollipop with a ridiculous concentration of sugar and artificial flavoring. Most people find it painfully sweet, but annelitrice magical girl considers it a balanced meal.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Anneli_PuppetTheatre"]/label</xpath>
+    <value>
+      <label>annelitrice magical girl live</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ResearchProjectDef[defName="Anneli_PuppetTheatre"]/description</xpath>
+    <value>
+      <description>A glittering stage for character song performances, transformation rehearsals, and victory poses.</description>
+    </value>
+  </Operation>
+</Patch>
