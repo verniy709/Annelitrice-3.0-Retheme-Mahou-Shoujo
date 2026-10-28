@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
-  <Anneli_Infection.label>安妮莉黑暗之环</Anneli_Infection.label>
-  <Anneli_Infection.labelNoun>安妮莉黑暗之环</Anneli_Infection.labelNoun>
-  <Anneli_Infection.description>这个状态会使人性在受害者体内聚集，并每天脱落一些灰烬。伴随着灵魂的摄入，这些残留物会被点燃，化为新的安妮莉不死人，并加入玩家派系。</Anneli_Infection.description>
+  <Anneli_Infection.label>安妮莉共享奇迹</Anneli_Infection.label>
+  <Anneli_Infection.labelNoun>安妮莉共享奇迹</Anneli_Infection.labelNoun>
+  <Anneli_Infection.description>一名安妮莉魔法少女向目标分享了强烈的友谊魔法，由此产生的积极情绪会逐渐结晶成愿望碎片。遗憾的是，这种魔法也会导致血糖升高，并最终引发糖尿病。</Anneli_Infection.description>
 </LanguageData>

@@ -165,13 +165,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/title</xpath>
     <value>
-      <title>Sparkle Medic</title>
+      <title>Sparkle Psychotherapist</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Sparkle Medic</titleShort>
+      <titleShort>Sparkle Psychotherapist</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

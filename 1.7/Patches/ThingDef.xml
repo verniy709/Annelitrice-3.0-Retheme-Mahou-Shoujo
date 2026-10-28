@@ -69,7 +69,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_OutsiderEgg"]/description</xpath>
     <value>
-      <description>A potential ally.</description>
+      <description>A tiny wish of a potential ally.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

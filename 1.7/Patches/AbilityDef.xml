@@ -15,7 +15,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AbilityDef[defName="Anneli_Infest"]/description</xpath>
     <value>
-      <description>Share a friendship-powered magic with another person. The miracle brings their most cherished friendship and dearest dream vividly to mind, crystallizing those precious feelings into Wish Fragments over time, but a side effect is diabetes.</description>
+      <description>Share a friendship-powered magic with another person. The miracle brings their most cherished memory and dream vividly to mind, crystallizing those precious feelings into Wish Fragments over time, but a side effect is diabetes.</description>
     </value>
   </Operation>
 </Patch>
