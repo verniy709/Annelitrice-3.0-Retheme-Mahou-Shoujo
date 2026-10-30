@@ -3,4 +3,6 @@
   <Anneli_Infection.label>安妮莉共享奇迹</Anneli_Infection.label>
   <Anneli_Infection.labelNoun>安妮莉共享奇迹</Anneli_Infection.labelNoun>
   <Anneli_Infection.description>一名安妮莉魔法少女向目标分享了强烈的友谊魔法，由此产生的积极情绪会逐渐结晶成愿望碎片。遗憾的是，这种魔法也会导致血糖升高，并最终引发糖尿病。</Anneli_Infection.description>
+  <Anneli_AnthelminticHigh.label>安妮莉治愈魔杖防护</Anneli_AnthelminticHigh.label>
+  <Anneli_AnthelminticHigh.description>防护魔法会在约五天内阻止新的感染，但无法治愈已经存在的感染。</Anneli_AnthelminticHigh.description>
 </LanguageData>

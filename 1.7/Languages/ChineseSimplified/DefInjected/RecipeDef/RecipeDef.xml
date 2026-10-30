@@ -8,6 +8,18 @@
   <HatchAnneliEggs.description>唤醒一枚愿望碎片，召唤一只安妮莉魔法精灵。</HatchAnneliEggs.description>
   <ButcherAnneliEggs.label>回收安妮莉愿望碎片</ButcherAnneliEggs.label>
   <CremateAnneliEggs.label>销毁安妮莉愿望碎片</CremateAnneliEggs.label>
-  <Anneli_AnthelminticAnneliEggs.label>制作安妮莉净化魔杖</Anneli_AnthelminticAnneliEggs.label>
-  <Anneli_AnthelminticAnneliEggs.description>制作一些小型净化魔杖，把讨厌的琐事统统赶走。</Anneli_AnthelminticAnneliEggs.description>
+  <Anneli_AnthelminticAnneliEggs.label>制作安妮莉治愈魔杖</Anneli_AnthelminticAnneliEggs.label>
+  <Anneli_AnthelminticAnneliEggs.description>制作能够抵御新感染的安妮莉魔杖。</Anneli_AnthelminticAnneliEggs.description>
+  <ResurrectAnneliCorpse.label>复活安妮莉魔法少女</ResurrectAnneliCorpse.label>
+  <ResurrectAnneliCorpse.description>使用魔法棒棒糖复活倒下的安妮莉魔法少女。</ResurrectAnneliCorpse.description>
+  <ResurrectAnneliCorpse.jobString>正在复活安妮莉魔法少女。</ResurrectAnneliCorpse.jobString>
+  <HatchAnneliEggs.jobString>正在唤醒愿望碎片。</HatchAnneliEggs.jobString>
+  <ButcherAnneliEggs.description>回收一枚愿望碎片，获得五根魔法棒棒糖。</ButcherAnneliEggs.description>
+  <ButcherAnneliEggs.jobString>正在回收愿望碎片。</ButcherAnneliEggs.jobString>
+  <CremateAnneliEggs.description>通过焚烧销毁愿望碎片。</CremateAnneliEggs.description>
+  <CremateAnneliEggs.jobString>正在焚毁愿望碎片。</CremateAnneliEggs.jobString>
+  <Anneli_MakeNutrientSolution.label>制作安妮莉魔法棒棒糖</Anneli_MakeNutrientSolution.label>
+  <Anneli_MakeNutrientSolution.description>将生鲜原料转化为魔法棒棒糖。</Anneli_MakeNutrientSolution.description>
+  <Anneli_MakeNutrientSolution.jobString>正在制作魔法棒棒糖。</Anneli_MakeNutrientSolution.jobString>
+  <Anneli_AnthelminticAnneliEggs.jobString>正在制作安妮莉治愈魔杖。</Anneli_AnthelminticAnneliEggs.jobString>
 </LanguageData>

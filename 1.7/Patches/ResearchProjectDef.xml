@@ -3,13 +3,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ResearchProjectDef[defName="Anneli_Fountain"]/label</xpath>
     <value>
-      <label>annelitrice Moonlight Fountain</label>
+      <label>annelitrice moonlight fountain</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ResearchProjectDef[defName="Anneli_Fountain"]/description</xpath>
     <value>
-      <description>A moonlit fountain for annelitrice magical girl recipes, including transmog apparel, annelitrice Wish Fragments, and annelitrice magical lollipop.</description>
+      <description>A moonlit fountain for Annelitrice magical girl recipes, including transmog apparel, Wish Fragments, and Magical Lollipops.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -21,7 +21,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ResearchProjectDef[defName="Anneli_NutrientSolution"]/description</xpath>
     <value>
-      <description>A lollipop with a ridiculous concentration of sugar and artificial flavoring. Most people find it painfully sweet, but annelitrice magical girl considers it a balanced meal.</description>
+      <description>A lollipop with a ridiculous concentration of sugar and artificial flavoring. Most people find it painfully sweet, but Annelitrice magical girls consider it a balanced meal.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

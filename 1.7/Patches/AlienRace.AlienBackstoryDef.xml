@@ -3,49 +3,49 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NormalWorm"]/title</xpath>
     <value>
-      <title>Ordinary Magical Girl</title>
+      <title>ordinary magical girl</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NormalWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Ordinary Magical Girl</titleShort>
+      <titleShort>ordinary magical girl</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NormalWorm"]/baseDesc</xpath>
     <value>
-      <baseDesc>[PAWN_nameDef] was an entirely ordinary girl with ordinary grades, ordinary hobbies, and no mysterious family secret whatsoever. [PAWN_nameDef] still has no idea why she had been chosen.</baseDesc>
+      <baseDesc>[PAWN_nameDef] was an entirely ordinary girl with ordinary grades, ordinary hobbies, and no mysterious family secret whatsoever. [PAWN_nameDef] still has no idea why she was chosen.</baseDesc>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ActiveWorm"]/title</xpath>
     <value>
-      <title>Fist of Love</title>
+      <title>fist of love</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ActiveWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Fist of Love</titleShort>
+      <titleShort>fist of love</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ActiveWorm"]/baseDesc</xpath>
     <value>
-      <baseDesc>When diplomacy failed, [PAWN_nameDef] discovered that love could also be delivered at a high-velocity fistfight.</baseDesc>
+      <baseDesc>When diplomacy failed, [PAWN_nameDef] discovered that love could also be delivered in a high-velocity fistfight.</baseDesc>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FriendlyWorm"]/title</xpath>
     <value>
-      <title>Kitten Burier</title>
+      <title>kitten burier</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FriendlyWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Kitten Burier</titleShort>
+      <titleShort>kitten burier</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -57,31 +57,31 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CreativeWorm"]/title</xpath>
     <value>
-      <title>Transformation Diva</title>
+      <title>transformation diva</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CreativeWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Transformation Diva</titleShort>
+      <titleShort>transformation diva</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CreativeWorm"]/baseDesc</xpath>
     <value>
-      <baseDesc>[PAWN_nameDef] has a gorgeous but too-long transformation animation.</baseDesc>
+      <baseDesc>[PAWN_nameDef] has a gorgeous transformation sequence that lasts far too long.</baseDesc>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DiggingWorm"]/title</xpath>
     <value>
-      <title>Secret Base Builder</title>
+      <title>secret base builder</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DiggingWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Secret Base Builder</titleShort>
+      <titleShort>secret base builder</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -93,13 +93,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FastGrowingWorm"]/title</xpath>
     <value>
-      <title>Country Magical Girl</title>
+      <title>country magical girl</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_FastGrowingWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Country Magical Girl</titleShort>
+      <titleShort>country magical girl</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -111,13 +111,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BellicoseWorm"]/title</xpath>
     <value>
-      <title>Magical Brawler</title>
+      <title>magical brawler</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BellicoseWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Magical Brawler</titleShort>
+      <titleShort>magical brawler</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -129,13 +129,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NerdyWorm"]/title</xpath>
     <value>
-      <title>Flower Princess</title>
+      <title>flower princess</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_NerdyWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Flower Princess</titleShort>
+      <titleShort>flower princess</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -147,13 +147,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ShrewdWorm"]/title</xpath>
     <value>
-      <title>Scientific Magical Girl</title>
+      <title>scientific magical girl</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ShrewdWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Scientific Magical Girl</titleShort>
+      <titleShort>scientific magical girl</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -165,13 +165,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/title</xpath>
     <value>
-      <title>Sparkle Psychotherapist</title>
+      <title>sparkle psychotherapist</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ImitatingWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Sparkle Psychotherapist</titleShort>
+      <titleShort>sparkle psychotherapist</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -183,13 +183,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BizarreWorm"]/title</xpath>
     <value>
-      <title>Prophecy Enthusiast</title>
+      <title>prophecy enthusiast</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BizarreWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Prophecy Enthusiast</titleShort>
+      <titleShort>prophecy enthusiast</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -201,13 +201,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_HoardingWorm"]/title</xpath>
     <value>
-      <title>Meteor Breaker</title>
+      <title>meteor breaker</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_HoardingWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Meteor Breaker</titleShort>
+      <titleShort>meteor breaker</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -219,13 +219,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CatWorm"]/title</xpath>
     <value>
-      <title>Chain-Combat Expert</title>
+      <title>chain-combat expert</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CatWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Chain-Combat Expert</titleShort>
+      <titleShort>chain-combat expert</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -237,13 +237,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_AutisticWorm"]/title</xpath>
     <value>
-      <title>Hesitant Magical Girl</title>
+      <title>hesitant magical girl</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_AutisticWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Hesitant Magical Girl</titleShort>
+      <titleShort>hesitant magical girl</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -255,13 +255,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ZealousWorm"]/title</xpath>
     <value>
-      <title>Divine Magical Girl</title>
+      <title>divine magical girl</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_ZealousWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Divine Magical Girl</titleShort>
+      <titleShort>divine magical girl</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -273,13 +273,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_MedicalWorm"]/title</xpath>
     <value>
-      <title>Miracle Healer</title>
+      <title>miracle healer</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_MedicalWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Miracle Healer</titleShort>
+      <titleShort>miracle healer</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -291,13 +291,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CheesyWorm"]/title</xpath>
     <value>
-      <title>Cake Fortress Architect</title>
+      <title>cake fortress architect</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_CheesyWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Cake Fortress Architect</titleShort>
+      <titleShort>cake fortress architect</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -309,13 +309,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BookWorm"]/title</xpath>
     <value>
-      <title>Costume Designer</title>
+      <title>costume designer</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_BookWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Costume Designer</titleShort>
+      <titleShort>costume designer</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -327,13 +327,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DOSWorm"]/title</xpath>
     <value>
-      <title>Magical Artillery Girl</title>
+      <title>magical artillery girl</title>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AlienRace.AlienBackstoryDef[defName="Anneli_DOSWorm"]/titleShort</xpath>
     <value>
-      <titleShort>Magical Artillery Girl</titleShort>
+      <titleShort>magical artillery girl</titleShort>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">

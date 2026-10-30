@@ -9,19 +9,19 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="AnnelitriceLarvaAsAnimal"]/description</xpath>
     <value>
-      <description>Annelitrice magical girls are chosen by mysterious magical fairies and entrusted with the noble duty of spreading love and friendship. They are, without exception, young girls who look remarkably fragile. Their physical bodies, however, are sustained by magic, and even fatal injuries are only temporary as long as their Soul Gems remain intact. Technically speaking, every annelitrice magical girl is immortal. Even when her body can no longer be sustained, she can simply be restored by infusing a Magical Lollipop into her Soul Gem.\n\nAn annelitrice magical girl can also share the miracle with another person, who does not necessarily have to be female. Magical femboys and shota have become increasingly popular candidates as well. The miracle fills the recipient with powerful feelings of hope, courage, friendship, and dreams. Unfortunately, it also causes dangerously elevated blood sugar, with possible complications including diabetes and rotting feet. These precious emotions gradually crystallize into Wish Fragments. Given a Magical Lollipop, a Wish Fragment will summon a magical fairy, who then sets out in search of a new magical girl.\n\nAnnelitrice magical girls have notoriously poor retirement benefits, a subject rarely covered in their main stories. Immortality and a general lack of education have also left many of them rather irresponsible and reckless. Once they are no longer required to perform official magical-girl duties, they tend to gather in shady groups and pursue increasingly wacky hobbies, some of which are not entirely legal.\n\nSelect an Annelitrice Magical Lollipop to awaken a Wish Fragment or restore a fallen magical girl. A Moonlight Fountain can automate both miracles.</description>
+      <description>Annelitrice magical girls are chosen by mysterious magical fairies and entrusted with the noble duty of spreading love and friendship. They are, without exception, young girls who look remarkably fragile. Their physical bodies, however, are sustained by magic, and even fatal injuries are only temporary as long as their Soul Gems remain intact. Technically speaking, every Annelitrice magical girl is immortal. Even when her body can no longer be sustained, she can simply be restored by infusing a Magical Lollipop into her Soul Gem.\n\nAn Annelitrice magical girl can also share the miracle with another person, who does not necessarily have to be female. Magical femboys and shota have become increasingly popular candidates as well. The miracle fills the recipient with powerful feelings of hope, courage, friendship, and dreams. Unfortunately, it also causes dangerously elevated blood sugar, with possible complications including diabetes and rotting feet. These precious emotions gradually crystallize into Wish Fragments. Given a Magical Lollipop, a Wish Fragment will summon a magical fairy, who then sets out in search of a new magical girl.\n\nAnnelitrice magical girls have notoriously poor retirement benefits, a subject rarely covered in their main stories. Immortality and a general lack of education have also left many of them rather irresponsible and reckless. Once they are no longer required to perform official magical-girl duties, they tend to gather in shady groups and pursue increasingly wacky hobbies, some of which are not entirely legal.\n\nSelect an Annelitrice Magical Lollipop to awaken a Wish Fragment or restore a fallen magical girl. A Moonlight Fountain can automate both miracles.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/label</xpath>
     <value>
-      <label>annelitrice Moonlight Fountain</label>
+      <label>annelitrice moonlight fountain</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/description</xpath>
     <value>
-      <description>A moonlit fountain for annelitrice magical girl recipes, including transmog apparel, annelitrice Wish Fragments, and annelitrice magical lollipop.</description>
+      <description>A moonlit fountain for Annelitrice magical girl recipes, including transmog apparel, Wish Fragments, and Magical Lollipops.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -45,13 +45,13 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Anthelmintic"]/description</xpath>
     <value>
-      <description>A glittering stage for character song performances, transformation rehearsals, and victory poses.</description>
+      <description>An Annelitrice healing wand wards off new infections for about five days. Its magic cannot cure an infection already present.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_ColonistEgg"]/label</xpath>
     <value>
-      <label>annelitrice bonded Wish Fragment</label>
+      <label>annelitrice bonded wish fragment</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -63,7 +63,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_OutsiderEgg"]/label</xpath>
     <value>
-      <label>annelitrice wandering Wish Fragment</label>
+      <label>annelitrice wandering wish fragment</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
@@ -81,19 +81,19 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_NutrientSolution"]/description</xpath>
     <value>
-      <description>A lollipop with a ridiculous concentration of sugar and artificial flavoring. Most people find it painfully sweet, but annelitrice magical girl considers it a balanced meal.</description>
+      <description>A lollipop with a ridiculous concentration of sugar and artificial flavoring. Most people find it painfully sweet, but Annelitrice magical girls consider it a balanced meal.</description>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Pupa"]/label</xpath>
     <value>
-      <label>annelitrice Soul Gem</label>
+      <label>annelitrice soul gem</label>
     </value>
   </Operation>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Pupa"]/description</xpath>
     <value>
-      <description>A large translucent crystal preserving the soul of an annelitrice magical girl.</description>
+      <description>A large translucent crystal preserving the soul of an Annelitrice magical girl.</description>
     </value>
   </Operation>
   <!-- Keep every retheme image under its own texture root, including random variants and masks. -->
@@ -152,6 +152,12 @@
       <butcherProducts>
         <Anneli_NutrientSolution>10</Anneli_NutrientSolution>
       </butcherProducts>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Anneli_NutrientSolution"]/comps/li[@Class="CompProperties_Usable"]/useLabel</xpath>
+    <value>
+      <useLabel>use annelitrice magical lollipop</useLabel>
     </value>
   </Operation>
 </Patch>

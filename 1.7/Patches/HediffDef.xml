@@ -15,7 +15,19 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/HediffDef[defName="Anneli_Infection"]/description</xpath>
     <value>
-      <description>An annelitrice magical girl has shared a strong positive vibe with the target. The resulting positive mood crystallizes into Wish Fragments. Unfortunately, sustained positivity also causes elevated blood sugar and may lead to diabetes.</description>
+      <description>An Annelitrice magical girl has shared a strong positive vibe with the target. The resulting positive mood crystallizes into Wish Fragments. Unfortunately, sustained positivity also causes elevated blood sugar and may lead to diabetes.</description>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="Anneli_AnthelminticHigh"]/label</xpath>
+    <value>
+      <label>annelitrice healing wand protection</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/HediffDef[defName="Anneli_AnthelminticHigh"]/description</xpath>
+    <value>
+      <description>Protective magic prevents new infections for about five days. It cannot cure infections already present.</description>
     </value>
   </Operation>
 </Patch>
