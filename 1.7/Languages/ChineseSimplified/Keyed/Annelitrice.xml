@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Anneli.LarvaAllowPupation>允许搜寻灵魂宝石</Anneli.LarvaAllowPupation>
+  <Anneli.LarvaAllowPupationDesc>关闭后，这只魔法精灵的饥饿值保持不变，进食也不会让它寻找到灵魂宝石。重新开启后恢复正常。</Anneli.LarvaAllowPupationDesc>
+</LanguageData>
