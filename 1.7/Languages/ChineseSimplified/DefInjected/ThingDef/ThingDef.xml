@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <AnnelitriceLarvaAsAnimal.label>安妮莉魔法精灵</AnnelitriceLarvaAsAnimal.label>
   <AnnelitriceLarvaAsAnimal.description>安妮莉魔法少女由神秘的魔法精灵选中，并被赋予传播爱与友情的崇高使命。她们无一例外都是看起来相当柔弱的年轻女孩，然而，她们的肉体实际上由魔力维持，只要灵魂宝石完好无损，身体上的致命伤也无所谓。所以每一名安妮莉魔法少女都是不死的，即使肉体已经无法继续维持，只需向她的灵魂宝石中注入一根魔法棒棒糖，就能够让她重新恢复。\n\n安妮莉魔法少女还可以与其他人分享魔法的奇迹，而对方并不一定非得是女性，因为近年来，魔法伪娘和正太也逐渐成为颇受欢迎的候选者。奇迹会让接受者心中涌现出强烈的希望、勇气、友情与梦想，遗憾的是，它同时也会导致血糖水平危险地升高，可能引发糖尿病、下肢溃烂等并发症。这些珍贵的情感会逐渐结晶成愿望碎片：只要给予愿望碎片一根魔法棒棒糖，它便会吸引来一只魔法精灵，这只精灵随后就会踏上寻找新魔法少女的旅程。\n\n安妮莉魔法少女的退休待遇十分糟糕，而这个问题在她们的正篇故事里通常很少被提及。长生不死，再加上普遍缺乏教育，让不少魔法少女变得相当不负责任且行事鲁莽。当她们不再需要履行正式的魔法少女职责后，往往会聚集成一些可疑的小团体，并开始追求越来越离谱的兴趣爱好，其中有些也不太合法。\n\n选择一根安妮莉魔法棒棒糖，即可唤醒一枚愿望碎片，或让倒下的魔法少女重新复活。月光喷泉可以自动完成这两种奇迹。</AnnelitriceLarvaAsAnimal.description>
@@ -7,7 +7,7 @@
   <Anneli_PuppetTheatre.label>安妮莉魔法少女Live</Anneli_PuppetTheatre.label>
   <Anneli_PuppetTheatre.description>一座闪闪发光的舞台，供魔法少女表演、排练变身与胜利姿势，以及演唱友情之歌。其舞步编排被视为重要战术。</Anneli_PuppetTheatre.description>
   <Anneli_Anthelmintic.label>安妮莉治愈魔杖</Anneli_Anthelmintic.label>
-  <Anneli_Anthelmintic.description>这根安妮莉魔杖能在约五天内抵御新的感染，但无法治愈已经存在的感染。</Anneli_Anthelmintic.description>
+  <Anneli_Anthelmintic.description>这根安妮莉治愈魔杖可清除所有成瘾状态，并治愈流感、瘟疫、疟疾、肠道蠕虫、昏睡病、肌肉寄生虫、纤维纳米机械感染和感官纳米机械感染。非安妮莉特丝使用者可能感到尴尬并开始呕吐。</Anneli_Anthelmintic.description>
   <Anneli_ColonistEgg.label>安妮莉羁绊愿望碎片</Anneli_ColonistEgg.label>
   <Anneli_ColonistEgg.description>一枚承载着熟悉共鸣的碎片。</Anneli_ColonistEgg.description>
   <Anneli_OutsiderEgg.label>安妮莉流浪愿望碎片</Anneli_OutsiderEgg.label>

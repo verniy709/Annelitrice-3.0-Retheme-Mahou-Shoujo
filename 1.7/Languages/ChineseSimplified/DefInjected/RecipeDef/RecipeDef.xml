@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <Cure_Anneli_Infection.label>解除安妮莉共享奇迹</Cure_Anneli_Infection.label>
   <Cure_Anneli_Infection.description>这个医疗操作会解除共享奇迹，同时也会降低血糖水平。</Cure_Anneli_Infection.description>
@@ -9,7 +9,7 @@
   <ButcherAnneliEggs.label>回收安妮莉愿望碎片</ButcherAnneliEggs.label>
   <CremateAnneliEggs.label>销毁安妮莉愿望碎片</CremateAnneliEggs.label>
   <Anneli_AnthelminticAnneliEggs.label>制作安妮莉治愈魔杖</Anneli_AnthelminticAnneliEggs.label>
-  <Anneli_AnthelminticAnneliEggs.description>制作能够抵御新感染的安妮莉魔杖。</Anneli_AnthelminticAnneliEggs.description>
+  <Anneli_AnthelminticAnneliEggs.description>制作安妮莉治愈魔杖。</Anneli_AnthelminticAnneliEggs.description>
   <ResurrectAnneliCorpse.label>复活安妮莉魔法少女</ResurrectAnneliCorpse.label>
   <ResurrectAnneliCorpse.description>使用魔法棒棒糖复活倒下的安妮莉魔法少女。</ResurrectAnneliCorpse.description>
   <ResurrectAnneliCorpse.jobString>正在复活安妮莉魔法少女。</ResurrectAnneliCorpse.jobString>
