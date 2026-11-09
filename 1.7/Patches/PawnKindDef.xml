@@ -15,19 +15,6 @@
     </value>
   </Operation>
 
-  <!-- This retheme uses six magical-fairy variants (0-5). Remove the 3 unused base variants. -->
-  <Operation Class="PatchOperationRemove">
-    <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva6"]</xpath>
-  </Operation>
-
-  <Operation Class="PatchOperationRemove">
-    <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva7"]</xpath>
-  </Operation>
-
-  <Operation Class="PatchOperationRemove">
-    <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva8"]</xpath>
-  </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/lifeStages/li/bodyGraphicData/texPath</xpath>
     <value>
@@ -74,6 +61,27 @@
     <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva5"]/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Larva/Larva5</texPath>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva6"]/texPath</xpath>
+    <value>
+      <texPath>Anneli_Retheme_MahouShoujo/Anneli_Larva/Larva6</texPath>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva7"]/texPath</xpath>
+    <value>
+      <texPath>Anneli_Retheme_MahouShoujo/Anneli_Larva/Larva7</texPath>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/PawnKindDef[defName="Anneli_Larva"]/alternateGraphics/li[texPath="Anneli_Larva/Larva8"]/texPath</xpath>
+    <value>
+      <texPath>Anneli_Retheme_MahouShoujo/Anneli_Larva/Larva8</texPath>
     </value>
   </Operation>
 </Patch>

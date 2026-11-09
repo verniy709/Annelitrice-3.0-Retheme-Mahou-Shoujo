@@ -45,14 +45,14 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Anthelmintic"]/label</xpath>
     <value>
-      <label>annelitrice healing wand</label>
+      <label>annelitrice mint chocolate</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Anthelmintic"]/description</xpath>
     <value>
-      <description>An Annelitrice healing wand that removes all addictions and cures flu, plague, malaria, gut worms, sleeping sickness, muscle parasites, fibrous mechanites, and sensory mechanites. Non-Annelitrice users may be embarrassed and start vomiting.</description>
+      <description>An Annelitrice mint chocolate that removes all addictions and cures flu, plague, malaria, gut worms, sleeping sickness, muscle parasites, fibrous mechanites, and sensory mechanites. Non-Annelitrice users may be allergic to certain ingredients and start vomiting.</description>
     </value>
   </Operation>
 

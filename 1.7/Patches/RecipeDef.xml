@@ -59,14 +59,14 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/RecipeDef[defName="Anneli_AnthelminticAnneliEggs"]/label</xpath>
     <value>
-      <label>annelitrice healing wands production</label>
+      <label>annelitrice mint chocolate production</label>
     </value>
   </Operation>
 
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/RecipeDef[defName="Anneli_AnthelminticAnneliEggs"]/description</xpath>
     <value>
-      <description>Annelitrice healing wands production.</description>
+      <description>Annelitrice mint chocolate production.</description>
     </value>
   </Operation>
 
@@ -160,7 +160,7 @@
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/RecipeDef[defName="Anneli_AnthelminticAnneliEggs"]/jobString</xpath>
     <value>
-      <jobString>Crafting Annelitrice healing wands.</jobString>
+      <jobString>Crafting Annelitrice mint chocolate.</jobString>
     </value>
   </Operation>
 </Patch>
