@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <Patch>
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AbilityDef[defName="Anneli_Infest"]/iconPath</xpath>
@@ -6,18 +6,25 @@
       <iconPath>Anneli_Retheme_MahouShoujo/Anneli_UI/Anneli_Infect</iconPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AbilityDef[defName="Anneli_Infest"]/label</xpath>
     <value>
       <label>share the miracle</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/AbilityDef[defName="Anneli_Infest"]/description</xpath>
     <value>
       <description>Share a friendship-powered miracle with another person. It brings their most cherished memories and dreams vividly to mind, crystallizing those precious feelings into Wish Fragments over time. It may also raise their blood sugar enough to cause diabetes.</description>
     </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/AbilityDef[defName="Anneli_Infest"]/comps</xpath>
+    <value>
+      <li Class="Annelitrice.Retheme.MahouShoujo.CompProperties_ShareMiracle" />
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/AbilityDef[defName="Anneli_Infest"]/comps/li[@Class="CompProperties_AbilityEffecterOnTarget"][effecterDef="Anneli_Infest"]</xpath>
   </Operation>
 </Patch>

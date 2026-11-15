@@ -163,4 +163,20 @@
       <jobString>Crafting Annelitrice mint chocolate.</jobString>
     </value>
   </Operation>
+
+  <!-- Recipe work effects and sounds -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="ResurrectAnneliCorpse" or defName="HatchAnneliEggs" or defName="ButcherAnneliEggs" or defName="MechSerumHealerAnneliEggs" or defName="LuciferiumAnneliEggs" or defName="Anneli_AnthelminticAnneliEggs" or defName="Anneli_MakeNutrientSolution"]/effectWorking</xpath>
+    <value>
+      <effectWorking>Cook</effectWorking>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RecipeDef[defName="ResurrectAnneliCorpse" or defName="HatchAnneliEggs" or defName="ButcherAnneliEggs" or defName="MechSerumHealerAnneliEggs" or defName="LuciferiumAnneliEggs" or defName="Anneli_AnthelminticAnneliEggs" or defName="Anneli_MakeNutrientSolution"]/soundWorking</xpath>
+    <value>
+      <soundWorking>Recipe_CookMeal</soundWorking>
+    </value>
+  </Operation>
+
 </Patch>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/EffecterDef[defName="Anneli_Hatch"]/children</xpath>
+    <value>
+      <children>
+        <li>
+          <subEffecterClass>Annelitrice.Retheme.MahouShoujo.SubEffecter_WishArrival</subEffecterClass>
+          <spawnLocType>OnSource</spawnLocType>
+        </li>
+      </children>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/EffecterDef[defName="Anneli_PupationStart"]/children</xpath>
+    <value>
+      <children>
+        <li>
+          <subEffecterClass>Annelitrice.Retheme.MahouShoujo.SubEffecter_CrystalFormation</subEffecterClass>
+          <spawnLocType>OnSource</spawnLocType>
+        </li>
+      </children>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/EffecterDef[defName="Anneli_PupationFinish"]/children</xpath>
+    <value>
+      <children>
+        <li>
+          <subEffecterClass>Annelitrice.Retheme.MahouShoujo.SubEffecter_ShiningDebut</subEffecterClass>
+          <spawnLocType>OnSource</spawnLocType>
+        </li>
+      </children>
+    </value>
+  </Operation>
+</Patch>

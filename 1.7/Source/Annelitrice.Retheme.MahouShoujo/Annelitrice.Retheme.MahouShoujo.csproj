@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <AssemblyName>Annelitrice.Retheme.MahouShoujo</AssemblyName>
+    <RootNamespace>Annelitrice.Retheme.MahouShoujo</RootNamespace>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
+    <NoStdLib>true</NoStdLib>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <RimWorldDirectory Condition="'$(RimWorldDirectory)' == ''">$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\..\..\..\..'))</RimWorldDirectory>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CrystalFormation/*.cs" />
+    <Compile Include="ShareMiracle/*.cs" />
+    <Compile Include="ShiningDebut/*.cs" />
+    <Compile Include="WishArrival/*.cs" />
+    <Reference Include="$(RimWorldDirectory)\System*.dll" Exclude="$(RimWorldDirectory)\System.IO.Compression.Native.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDirectory)\mscorlib.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDirectory)\netstandard.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDirectory)\UnityStubs.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDirectory)\Waylith.dll"><Private>false</Private></Reference>
+    <Reference Include="$(RimWorldDirectory)\Assembly-CSharp.dll"><Private>false</Private></Reference>
+  </ItemGroup>
+</Project>

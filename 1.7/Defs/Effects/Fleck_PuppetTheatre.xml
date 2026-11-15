@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FleckDef ParentName="FleckBase_Thrown">
+    <defName>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</defName>
+    <graphicData>
+      <texPath>Anneli_Retheme_MahouShoujo/Anneli_Effect/Anneli_PuppetTheatre/Sparkle</texPath>
+      <drawSize>(1,1)</drawSize>
+      <shaderType>MoteGlow</shaderType>
+      <renderInstanced>true</renderInstanced>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <fadeInTime>0.08</fadeInTime>
+    <solidTime>0.08</solidTime>
+    <fadeOutTime>0.30</fadeOutTime>
+    <growthRate>-0.035</growthRate>
+    <speedPerTime>0</speedPerTime>
+  </FleckDef>
+  <FleckDef ParentName="FleckBase_Thrown">
+    <defName>Anneli_Retheme_MahouShoujo_PuppetTheatreHeart</defName>
+    <graphicData>
+      <texPath>Anneli_Retheme_MahouShoujo/Anneli_Effect/Anneli_PuppetTheatre/Heart</texPath>
+      <drawSize>(1,1)</drawSize>
+      <shaderType>Mote</shaderType>
+      <renderInstanced>true</renderInstanced>
+    </graphicData>
+    <altitudeLayer>MoteOverhead</altitudeLayer>
+    <fadeInTime>0.16</fadeInTime>
+    <solidTime>0.30</solidTime>
+    <fadeOutTime>0.62</fadeOutTime>
+    <growthRate>0.025</growthRate>
+    <speedPerTime>0</speedPerTime>
+  </FleckDef>
+</Defs>

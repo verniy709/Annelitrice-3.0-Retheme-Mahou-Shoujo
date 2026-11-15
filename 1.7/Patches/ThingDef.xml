@@ -6,170 +6,144 @@
       <label>annelitrice magical fairy</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="AnnelitriceLarvaAsAnimal"]/description</xpath>
     <value>
       <description>Annelitrice magical girls are chosen by mysterious magical fairies and entrusted with the noble duty of spreading love and friendship. They are, without exception, young girls who look remarkably fragile. Their physical bodies, however, are sustained by magic, and even fatal injuries are only temporary as long as their Soul Gems remain intact. Technically speaking, every Annelitrice magical girl is immortal. Even when her body can no longer be sustained, she can simply be restored by infusing a Magical Lollipop into her Soul Gem.\n\nAn Annelitrice magical girl can also share the miracle with another person, who does not necessarily have to be female. Magical femboys and shota have become increasingly popular candidates as well. The miracle fills the recipient with powerful feelings of hope, courage, friendship, and dreams. Unfortunately, it also causes dangerously elevated blood sugar, with possible complications including diabetes and rotting feet. These precious emotions gradually crystallize into Wish Fragments. Given a Magical Lollipop, a Wish Fragment will summon a magical fairy, who then sets out in search of a new magical girl.\n\nAnnelitrice magical girls have notoriously poor retirement benefits, a subject rarely covered in their main stories. Immortality and a general lack of education have also left many of them rather irresponsible and reckless. Once they are no longer required to perform official magical-girl duties, they tend to gather in shady groups and pursue increasingly wacky hobbies, some of which are not entirely legal.\n\nSelect an Annelitrice Magical Lollipop to awaken a Wish Fragment or restore a fallen magical girl. A Moonlight Fountain can automate both miracles.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/label</xpath>
     <value>
       <label>annelitrice moonlight fountain</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/description</xpath>
     <value>
       <description>A moonlit fountain for Annelitrice magical girl recipes, including transmog apparel, Wish Fragments, and Magical Lollipops.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/label</xpath>
     <value>
       <label>annelitrice magical girl live</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/description</xpath>
     <value>
       <description>A glittering stage for magical-girl performances, transformation rehearsals, victory poses, and songs about friendship. The choreography is considered strategically important.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Anthelmintic"]/label</xpath>
     <value>
       <label>annelitrice mint chocolate</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Anthelmintic"]/description</xpath>
     <value>
       <description>An Annelitrice mint chocolate that removes all addictions and cures flu, plague, malaria, gut worms, sleeping sickness, muscle parasites, fibrous mechanites, and sensory mechanites. Non-Annelitrice users may be allergic to certain ingredients and start vomiting.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_ColonistEgg"]/label</xpath>
     <value>
       <label>annelitrice bonded wish fragment</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_ColonistEgg"]/description</xpath>
     <value>
       <description>A fragment carrying a familiar resonance.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_OutsiderEgg"]/label</xpath>
     <value>
       <label>annelitrice wandering wish fragment</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_OutsiderEgg"]/description</xpath>
     <value>
       <description>A tiny wish of a potential ally.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_NutrientSolution"]/label</xpath>
     <value>
       <label>annelitrice magical lollipop</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_NutrientSolution"]/description</xpath>
     <value>
       <description>A lollipop with a ridiculous concentration of sugar and artificial flavoring. Most people find it painfully sweet, but Annelitrice magical girls consider it a balanced meal.</description>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Pupa"]/label</xpath>
     <value>
       <label>annelitrice soul gem</label>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Pupa"]/description</xpath>
     <value>
       <description>A large translucent crystal preserving the soul of an Annelitrice magical girl.</description>
     </value>
   </Operation>
-
-  <!-- Keep every retheme image under its own texture root, including random variants and masks. -->
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Building/Fountain</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Building/PuppetTheatre</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Anthelmintic"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Item/Anthelmintic</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_NutrientSolution"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Item/NutrientSolution</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_ColonistEgg"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Item/Egg_Colonist</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_OutsiderEgg"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Item/Egg</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_Pupa"]/graphicData/texPath</xpath>
     <value>
       <texPath>Anneli_Retheme_MahouShoujo/Anneli_Item/Pupa</texPath>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationAdd">
     <xpath>Defs/ThingDef[defName="AnnelitriceLarvaAsAnimal"]/statBases</xpath>
     <value>
       <MeatAmount>0</MeatAmount>
     </value>
   </Operation>
-
-  <!-- Butchery yields Anneli_NutrientSolution -->
   <Operation Class="PatchOperationAdd">
     <xpath>Defs/ThingDef[defName="AnnelitriceLarvaAsAnimal"]</xpath>
     <value>
@@ -178,11 +152,338 @@
       </butcherProducts>
     </value>
   </Operation>
-
   <Operation Class="PatchOperationReplace">
     <xpath>Defs/ThingDef[defName="Anneli_NutrientSolution"]/comps/li[@Class="CompProperties_Usable"]/useLabel</xpath>
     <value>
       <useLabel>use annelitrice magical lollipop</useLabel>
     </value>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/comps</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/comps</xpath>
+      <value>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_FountainRipple</fleck>
+          <offsetMin>(-0.40,0,-0.22)</offsetMin>
+          <offsetMax>(-0.34,0,-0.20)</offsetMax>
+          <emissionInterval>26</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.09~0.14</scale>
+          <rotationRate>0~0</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(0.66,0.88,1,0.50)</colorA>
+          <colorB>(0.96,1,1,0.72)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_FountainRipple</fleck>
+          <offsetMin>(0.34,0,-0.22)</offsetMin>
+          <offsetMax>(0.40,0,-0.20)</offsetMax>
+          <emissionInterval>31</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.09~0.14</scale>
+          <rotationRate>0~0</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(0.66,0.88,1,0.50)</colorA>
+          <colorB>(0.96,1,1,0.72)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_FountainFanSplash</fleck>
+          <offsetMin>(-0.385,0,-0.190)</offsetMin>
+          <offsetMax>(-0.355,0,-0.180)</offsetMax>
+          <emissionInterval>9</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.165~0.209</scale>
+          <rotationRate>0~0</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(0.64,0.88,1,0.64)</colorA>
+          <colorB>(0.94,1,1,0.86)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_FountainFanSplash</fleck>
+          <offsetMin>(0.355,0,-0.190)</offsetMin>
+          <offsetMax>(0.385,0,-0.180)</offsetMax>
+          <emissionInterval>11</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.165~0.209</scale>
+          <rotationRate>0~0</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(0.64,0.88,1,0.64)</colorA>
+          <colorB>(0.94,1,1,0.86)</colorB>
+        </li>
+        <li Class="CompProperties_AmbientSound">
+          <sound>Anneli_Retheme_MahouShoujo_FountainAmbience</sound>
+          <disabledOnUnpowered>false</disabledOnUnpowered>
+        </li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Anneli_Fountain"]</xpath>
+      <value>
+        <comps>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_FountainRipple</fleck>
+            <offsetMin>(-0.40,0,-0.22)</offsetMin>
+            <offsetMax>(-0.34,0,-0.20)</offsetMax>
+            <emissionInterval>26</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.09~0.14</scale>
+            <rotationRate>0~0</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(0.66,0.88,1,0.50)</colorA>
+            <colorB>(0.96,1,1,0.72)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_FountainRipple</fleck>
+            <offsetMin>(0.34,0,-0.22)</offsetMin>
+            <offsetMax>(0.40,0,-0.20)</offsetMax>
+            <emissionInterval>31</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.09~0.14</scale>
+            <rotationRate>0~0</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(0.66,0.88,1,0.50)</colorA>
+            <colorB>(0.96,1,1,0.72)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_FountainFanSplash</fleck>
+            <offsetMin>(-0.385,0,-0.190)</offsetMin>
+            <offsetMax>(-0.355,0,-0.180)</offsetMax>
+            <emissionInterval>9</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.165~0.209</scale>
+            <rotationRate>0~0</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(0.64,0.88,1,0.64)</colorA>
+            <colorB>(0.94,1,1,0.86)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_FountainFanSplash</fleck>
+            <offsetMin>(0.355,0,-0.190)</offsetMin>
+            <offsetMax>(0.385,0,-0.180)</offsetMax>
+            <emissionInterval>11</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.165~0.209</scale>
+            <rotationRate>0~0</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(0.64,0.88,1,0.64)</colorA>
+            <colorB>(0.94,1,1,0.86)</colorB>
+          </li>
+          <li Class="CompProperties_AmbientSound">
+            <sound>Anneli_Retheme_MahouShoujo_FountainAmbience</sound>
+            <disabledOnUnpowered>false</disabledOnUnpowered>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/tickerType</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Anneli_Fountain"]/tickerType</xpath>
+      <value>
+        <tickerType>Normal</tickerType>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Anneli_Fountain"]</xpath>
+      <value>
+        <tickerType>Normal</tickerType>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/comps</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/comps</xpath>
+      <value>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+          <offsetMin>(-0.29,0,0.30)</offsetMin>
+          <offsetMax>(0.29,0,0.43)</offsetMax>
+          <emissionInterval>17</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.10~0.16</scale>
+          <rotationRate>-18~18</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(1,0.87,0.55,0.78)</colorA>
+          <colorB>(1,1,0.95,1)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+          <offsetMin>(-0.55,0,0.16)</offsetMin>
+          <offsetMax>(-0.43,0,0.31)</offsetMax>
+          <emissionInterval>19</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.10~0.15</scale>
+          <rotationRate>-18~18</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(1,0.87,0.55,0.78)</colorA>
+          <colorB>(1,1,0.95,1)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+          <offsetMin>(0.43,0,0.16)</offsetMin>
+          <offsetMax>(0.55,0,0.31)</offsetMax>
+          <emissionInterval>23</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.10~0.15</scale>
+          <rotationRate>-18~18</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(1,0.87,0.55,0.78)</colorA>
+          <colorB>(1,1,0.95,1)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+          <offsetMin>(-0.63,0,-0.40)</offsetMin>
+          <offsetMax>(0.63,0,-0.32)</offsetMax>
+          <emissionInterval>15</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.08~0.13</scale>
+          <rotationRate>-18~18</rotationRate>
+          <velocityX>0~0</velocityX>
+          <velocityY>0~0</velocityY>
+          <colorA>(1,0.87,0.55,0.78)</colorA>
+          <colorB>(1,1,0.95,1)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreHeart</fleck>
+          <offsetMin>(-0.65,0,-0.25)</offsetMin>
+          <offsetMax>(-0.53,0,-0.10)</offsetMax>
+          <emissionInterval>43</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.10~0.14</scale>
+          <rotationRate>-8~8</rotationRate>
+          <velocityX>-12~0</velocityX>
+          <velocityY>0.18~0.24</velocityY>
+          <colorA>(1,0.44,0.70,0.78)</colorA>
+          <colorB>(1,0.76,0.90,0.95)</colorB>
+        </li>
+        <li Class="CompProperties_ThrownFleckEmitter">
+          <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreHeart</fleck>
+          <offsetMin>(0.53,0,-0.25)</offsetMin>
+          <offsetMax>(0.65,0,-0.10)</offsetMax>
+          <emissionInterval>53</emissionInterval>
+          <burstCount>1</burstCount>
+          <scale>0.10~0.14</scale>
+          <rotationRate>-8~8</rotationRate>
+          <velocityX>0~12</velocityX>
+          <velocityY>0.18~0.24</velocityY>
+          <colorA>(1,0.44,0.70,0.78)</colorA>
+          <colorB>(1,0.76,0.90,0.95)</colorB>
+        </li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]</xpath>
+      <value>
+        <comps>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+            <offsetMin>(-0.29,0,0.30)</offsetMin>
+            <offsetMax>(0.29,0,0.43)</offsetMax>
+            <emissionInterval>17</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.10~0.16</scale>
+            <rotationRate>-18~18</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(1,0.87,0.55,0.78)</colorA>
+            <colorB>(1,1,0.95,1)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+            <offsetMin>(-0.55,0,0.16)</offsetMin>
+            <offsetMax>(-0.43,0,0.31)</offsetMax>
+            <emissionInterval>19</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.10~0.15</scale>
+            <rotationRate>-18~18</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(1,0.87,0.55,0.78)</colorA>
+            <colorB>(1,1,0.95,1)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+            <offsetMin>(0.43,0,0.16)</offsetMin>
+            <offsetMax>(0.55,0,0.31)</offsetMax>
+            <emissionInterval>23</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.10~0.15</scale>
+            <rotationRate>-18~18</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(1,0.87,0.55,0.78)</colorA>
+            <colorB>(1,1,0.95,1)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreSparkle</fleck>
+            <offsetMin>(-0.63,0,-0.40)</offsetMin>
+            <offsetMax>(0.63,0,-0.32)</offsetMax>
+            <emissionInterval>15</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.08~0.13</scale>
+            <rotationRate>-18~18</rotationRate>
+            <velocityX>0~0</velocityX>
+            <velocityY>0~0</velocityY>
+            <colorA>(1,0.87,0.55,0.78)</colorA>
+            <colorB>(1,1,0.95,1)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreHeart</fleck>
+            <offsetMin>(-0.65,0,-0.25)</offsetMin>
+            <offsetMax>(-0.53,0,-0.10)</offsetMax>
+            <emissionInterval>43</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.10~0.14</scale>
+            <rotationRate>-8~8</rotationRate>
+            <velocityX>-12~0</velocityX>
+            <velocityY>0.18~0.24</velocityY>
+            <colorA>(1,0.44,0.70,0.78)</colorA>
+            <colorB>(1,0.76,0.90,0.95)</colorB>
+          </li>
+          <li Class="CompProperties_ThrownFleckEmitter">
+            <fleck>Anneli_Retheme_MahouShoujo_PuppetTheatreHeart</fleck>
+            <offsetMin>(0.53,0,-0.25)</offsetMin>
+            <offsetMax>(0.65,0,-0.10)</offsetMax>
+            <emissionInterval>53</emissionInterval>
+            <burstCount>1</burstCount>
+            <scale>0.10~0.14</scale>
+            <rotationRate>-8~8</rotationRate>
+            <velocityX>0~12</velocityX>
+            <velocityY>0.18~0.24</velocityY>
+            <colorA>(1,0.44,0.70,0.78)</colorA>
+            <colorB>(1,0.76,0.90,0.95)</colorB>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+  </Operation>
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/tickerType</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]/tickerType</xpath>
+      <value>
+        <tickerType>Normal</tickerType>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="Anneli_PuppetTheatre"]</xpath>
+      <value>
+        <tickerType>Normal</tickerType>
+      </value>
+    </nomatch>
   </Operation>
 </Patch>

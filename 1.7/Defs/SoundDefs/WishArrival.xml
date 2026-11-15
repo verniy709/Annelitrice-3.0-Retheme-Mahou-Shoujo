@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>Anneli_Retheme_MahouShoujo_WishArrivalFall</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>4</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Anneli_Retheme_MahouShoujo/WishArrival/WishArrivalFall</clipPath>
+          </li>
+        </grains>
+        <volumeRange>75~75</volumeRange>
+        <pitchRange>1~1</pitchRange>
+        <distRange>5~30</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Anneli_Retheme_MahouShoujo_WishArrivalFall_Fast3</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>4</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Anneli_Retheme_MahouShoujo/WishArrival/WishArrivalFall_Fast3</clipPath>
+          </li>
+        </grains>
+        <volumeRange>75~75</volumeRange>
+        <pitchRange>1~1</pitchRange>
+        <distRange>5~30</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Anneli_Retheme_MahouShoujo_WishArrivalFall_Fast6</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>4</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Anneli_Retheme_MahouShoujo/WishArrival/WishArrivalFall_Fast6</clipPath>
+          </li>
+        </grains>
+        <volumeRange>75~75</volumeRange>
+        <pitchRange>1~1</pitchRange>
+        <distRange>5~30</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Anneli_Retheme_MahouShoujo_WishArrivalFall_Fast15</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>4</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Anneli_Retheme_MahouShoujo/WishArrival/WishArrivalFall_Fast15</clipPath>
+          </li>
+        </grains>
+        <volumeRange>75~75</volumeRange>
+        <pitchRange>1~1</pitchRange>
+        <distRange>5~30</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Anneli_Retheme_MahouShoujo_WishArrivalBloom</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>4</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Anneli_Retheme_MahouShoujo/WishArrival/WishArrivalBloom</clipPath>
+          </li>
+        </grains>
+        <volumeRange>75~75</volumeRange>
+        <pitchRange>1~1</pitchRange>
+        <distRange>5~30</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>Anneli_Retheme_MahouShoujo_WishArrivalSparkle</defName>
+    <context>MapOnly</context>
+    <maxSimultaneous>4</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Anneli_Retheme_MahouShoujo/WishArrival/WishArrivalSparkle</clipPath>
+          </li>
+        </grains>
+        <volumeRange>75~75</volumeRange>
+        <pitchRange>1~1</pitchRange>
+        <distRange>5~30</distRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
